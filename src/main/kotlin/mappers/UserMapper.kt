@@ -1,0 +1,3 @@
+package mappers
+
+class UserMapper {}
